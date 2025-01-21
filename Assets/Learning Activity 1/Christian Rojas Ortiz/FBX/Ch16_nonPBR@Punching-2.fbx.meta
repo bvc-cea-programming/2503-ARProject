@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3079332d76e7b45c896143a9529fd074
+guid: 2dbba131dd67740598a3041e52018db0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -26,7 +26,7 @@ ModelImporter:
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
-    animationWrapMode: 0
+    animationWrapMode: 2
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
@@ -75,11 +75,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips:
-  - 033eea3f83da249dba48f2379eaf7f57
-  - 2dbba131dd67740598a3041e52018db0
-  - 792af0666f2324bdc9f26b9167c2f329
-  - e50a3b8d4908740279f93d43601effcb
+  referencedClips: []
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
