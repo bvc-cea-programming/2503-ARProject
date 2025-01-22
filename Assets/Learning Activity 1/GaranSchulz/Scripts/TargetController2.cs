@@ -1,6 +1,6 @@
 using UnityEngine;
 using DG.Tweening;
-public class TargetController : MonoBehaviour
+public class TargetController2 : MonoBehaviour
 {
     [SerializeField] private GameObject[] targetObjects;
     public void OnTargetFound()
