@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36ce4422-1779-451a-8788-f7b6d936825a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/imagetarget.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/imagetarget.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/minion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/minion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/seer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/seer.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/sparkle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Images/sparkle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/InClass.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/InClass.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/AppearMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/AppearMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/AppearShader.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/AppearShader.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/SphereMat 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/SphereMat 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/SphereMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/SphereMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/sparklemat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Materials/sparklemat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Models/FlippedCube.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Models/FlippedCube.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Models/char.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Models/char.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/Billboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/Billboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/ChickenInteraction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/ChickenInteraction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/RotateChicken.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/RotateChicken.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/TargetController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/Scripts/TargetController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/TwoTargets.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/GaranSchulz/TwoTargets.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/FlippedCube.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/FlippedCube.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Image Target.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Image Target.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/In Class 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/In Class 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/In Class.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/In Class.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/AppearShader.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/AppearShader.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Cube.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Cube.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Cylinder.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Cylinder.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Shader Graphs_AppearShader.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Shader Graphs_AppearShader.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Sphere.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Materials/Sphere.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/TargetController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/TargetController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Two Targets.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/Two Targets.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/minion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/minion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/seer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/Indika Wijesooriya/seer.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Gangnam Style.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Gangnam Style.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Gangnam Style.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Gangnam Style.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Image Target.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Image Target.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Owen_InClass.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Owen_InClass.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Texture.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/Texture.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/image (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Learning Activity 1/OwenBusch/image (4).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Learning Activity 2/ClaraGavinho/ButtonRedirect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Learning Activity 2/ClaraGavinho/UI_Script.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sGolgr6Hfy8Aq40rWmsY0JwB3a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "LA2__ClaraGavinho",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\c.medeirosdasilva451\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\c.medeirosdasilva451\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\c.medeirosdasilva451\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\c.medeirosdasilva451\Desktop\2503-ARProject -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\c.medeirosdasilva451\Desktop\2503-ARProject" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\c.medeirosdasilva451\Desktop\2503-ARProject -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\c.medeirosdasilva451\Desktop\2503-ARProject" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ce4422-1779-451a-8788-f7b6d936825a" name="Changes" comment="" />
+      <created>1738091425715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738091425715</updated>
+      <workItem from="1738091428615" duration="1464000" />
+      <workItem from="1738093245298" duration="5136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
